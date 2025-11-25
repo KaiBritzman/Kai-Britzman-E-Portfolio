@@ -1,0 +1,11 @@
+title: "Kai Britzman"
+theme: minima
+
+author:
+  name: "Kai Brtizman"
+  email: "kbritz@outlook.com"
+
+header_pages:
+  - index.md
+
+github_username: KaiBritzman
