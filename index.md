@@ -27,7 +27,12 @@ To make sure I achieve mastery in Microsoft Word and PowerPoint, I will keep exp
 For Excel, I will make sure to use Excel to store data and use it to analyse the data. This is directly linked to my course (Data Science) so it will be useful to make sure I have practical experience that I can bring to a future job. 
 
 ## Information Literacy
+The internet has made it much easier to research and find information. Before, you had to go to libraries and read books to find it. Now, you can go onto the internet and find information on almost anything. However, the internet isnt always accurate. Anyone can use the internet and produce fake information. For my assignments in college and school, I used to use primarly google to research stuff that I didnt know. This wont cut it for University work and for work in the workforce. I developed a new mindeset when it comes to research. In professional and study skills, I have learnt how to use academic sources for informative and correct information.
 
+The main academic catelogue I have learnt is Scopus. In Scopus, you can use keywords to find sources on information you want. For example, you may
+want to research on how AI can be used to enhance education. You will likely have key words like AI, edcuation etc. You can then find journals that have information on those topics. You may have thousands of results, but you can filter them using years they were published, the country of publication etc.
+
+Evaluting sources for credibility is very important. This is because many sources arent written by people who conducted proper research
 
 ## Coding and Collaboration Platforms
 
