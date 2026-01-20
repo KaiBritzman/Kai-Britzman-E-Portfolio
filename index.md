@@ -32,14 +32,30 @@ The internet has made it much easier to research and find information. Before, y
 The main academic catelogue I have learnt is Scopus. In Scopus, you can use keywords to find sources on information you want. For example, you may
 want to research on how AI can be used to enhance education. You will likely have key words like AI, edcuation etc. You can then find journals that have information on those topics. You may have thousands of results, but you can filter them using years they were published, the country of publication etc.
 
-Evaluting sources for credibility is very important. This is because many sources arent written by people who conducted proper research
+Evaluting sources for credibility is very important. This is because many sources contain misinformation. They may have conducted false research and gave the wrong figures or just get definitions wrong. Because of this, many people are taking in false information as true and using it in their assignment or research paper. Giving the wrong information shows that you don't kn
 
 ## Coding and Collaboration Platforms
+Before I started this module, I didn't know about Git, GitHub or GitHub Pages. I didn't even hear about them, so this was a big learning curve. 
 
+Git allows you to commit changes to your project and lets you access that whenever you want. This means when you do another commit, you can still access your previous commit. This means you dont lose your previous work. 
+Github also allows for collaboration. You need to create a repository, which is where you store your project files. Then, you can invite people to join your repository and let people work on them. This allows for easy collaboration, as you dont have to create unique repositorys for each person working on the project, you can all work in one. 
+GitHub can also let you present your work to the world. GitHub is like social media, where you have a profile and others can view your work if your repository is public. This is great for potential employers to see your practical work and for topics to bring up in interviews. It can also give people great ideas and overall develops peoples interest in you. 
+GitPages are also great to display to the public your knowledge. GitHub webpages are websites made from GitHub. For example, I used Github webpages for my Data Visualisation assignment. It had all my knowledge I learnt from that module, with coded examples. My future employers can see this and they get see my knowledge of visualisation. Someone else may have similar knowledge, but because I have something like this public, I will be more likely hired. 
+
+Git and Github are similar but different things. Think of Git as like a draft folder. It keeps snapchats of your project which means you can access older versions of your projecsts. GitHib is a website that lets you host Git repositories. This allows you to open codespaces and use git commands for version control. Esstentially, git is keeping different verisons of your project, and GitHub is a place where you can do that. 
+Some git commands include ```git status```. This is will show what branch you are on, which files have been modifited and more. It esstentially shows how your repository is right now.  It's best practice to do this frequently (Joseph MHango 2025). ```git add``` moves your changes in your working directory into the staging area. It wont produce a output if done correctly. ```git commit``` will produce a new commit. This means it will produce a snapchat of all your changes, meaning you can access it whenever. I used this command the most when using git during my time at University, as it allows me to version control. 
+
+As this is my first time using git as a whole, I have had many strengths and challenges when using it. For example, one of my main challenges is using commands and understanding the technical aspects of git. This has been a struggle to understand, however as I come to use it more, I will also come to undertand how it works technically. Some strengths I do have is creating repositorys, code spaces, commits and making GitHub webapges. I have used these for other aspects of my course. For example I have used codespaces and commits for the Computing and Technology course extentsively, and can confidently make a GitHub webpage because it is what we use for the majority of our written assignments. 
+
+Collaborative tools like GitHub will be used heavley for my academic and professional journey. This is because many assignments may ask us to work in pairs. This is where collaborative tools like GitHub will help. for example, one assignment may ask us to make a software solution and we have to work in pairs. GitHub will allow us to create one repository and let other people make edits in the codespace. This is similar for my professional development. In the work force, there will certainly be times I have to work with other people. A client may ask for a big software solution, so we need mutliple people working on it to make the deadline the client wants. Having these collaboritve tools like let us work at the same time. 
 
 ## Continuous Proffesional Development(CPD)
 
 
 ## Reponsible Use of AI
+A few years ago, people didn't understand what AI was, but now almost everyone knows what it is. Most people may recognise it as just something people use for research and making it write assignments for them. However, it can be a powerful tool if used right (Ed Harris 2025). 
 
+Because of the rise of people using AI as a cheating method for assignments and homework, many Universitys have made policies to make sure its used appropriately. 
 ## References
+https://vle.harper-adams.ac.uk/course/view.php?id=278 (Accessed: 20/01/2026)
+Offical Harper Adams Guideance on AI: https://hub.harper-adams.ac.uk/mod/resource/view.php?id=645550 (Accessed: 20/01/2026)
