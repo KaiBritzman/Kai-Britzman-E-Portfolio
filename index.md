@@ -85,3 +85,5 @@ Harper Adams University (2025) *Working well with AI*. offical university guidan
 Harper Adams University (2025) *Week 8: Collaboration and version control*. Available at: https://vle.harper-adams.ac.uk/course/view.php?id=278 (Accessed: 20/01/2026)
 
 Harper Adams University (2025) *Week 10 Professional Development*. Available at: https://vle.harper-adams.ac.uk/course/section.php?id=4466 (Accessed: 21/01/2026)
+
+**AI has been used in this document (used to make sure text makes sense and enhance grammar)**
