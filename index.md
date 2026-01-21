@@ -79,6 +79,9 @@ I have a strong foundational knowledge on AI as a user, but I'm still a beginner
 
 ## References
 Harper Adams University (2025) *Week 2: Study notes*: Available at: https://vle.harper-adams.ac.uk/course/view.php?id=278 (Accessed: 20/01/2026)
+
 Harper Adams University (2025) *Working well with AI*. offical university guidance: Available at: https://hub.harper-adams.ac.uk/mod/resource/view.php?id=645550 (Accessed: 20/01/2026)
+
 Harper Adams University (2025) *Week 8: Collaboration and version control*. Available at: https://vle.harper-adams.ac.uk/course/view.php?id=278 (Accessed: 20/01/2026)
+
 Harper Adams University (2025) *Week 10 Professional Development*. Available at: https://vle.harper-adams.ac.uk/course/section.php?id=4466 (Accessed: 21/01/2026)
