@@ -1,6 +1,6 @@
 ---
 layout: home
-title: E Portfolio
+title: E-Portfolio
 ---
 # Introduction
 My name is Kai Britzman. I'm an Applied Data Science student at Harper Adams University. I'm currently in my first year and have studied a variety of modules, including Professional and Study Skills, Computing Technology and Data Visualisation. I’ve learnt many hard skills, such as programming in Computing Technology and plotting graphs in R in Data Visualisation. However, in Professional and Study skills, I have learnt lots of soft skills. These are skills that will make me stand out. Many people applying to Data Science jobs can code and plot graphs, but some may lack essential soft skills. In this e-portfolio, I will explain what I have learnt from this important module and how having these skills will make me more valuable in the workplace. 
